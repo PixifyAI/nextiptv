@@ -31,10 +31,10 @@ This is a web application built with Next.js, React, TypeScript, and Tailwind CS
 
 ### Installation
 
-1.  Clone the repository (if applicable).
+1.  Clone the repository (https://github.com/PixifyAI/nextiptv).
 2.  Navigate to the project directory:
     ```bash
-    cd path/to/ExtremeCodeIPTVnext
+    cd path/to/nextiptv
     ```
 3.  Install the dependencies:
     ```bash
