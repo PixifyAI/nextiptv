@@ -88,4 +88,4 @@ npm run start
 
 ## API Endpoint
 
-*   `/api/iptv-proxy`: This route likely acts as a proxy for external IPTV services. The implementation details are in `app/api/iptv-proxy/route.ts`.
+*   `/api/iptv-proxy`: This route acts as a proxy for external IPTV services. The implementation details are in `app/api/iptv-proxy/route.ts`.
