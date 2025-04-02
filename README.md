@@ -1,3 +1,5 @@
+# <img src="image.png" alt="HTML IPTV Logo" width="800">
+
 # Extreme Code IPTV Next.js App
 
 This is a web application built with Next.js, React, TypeScript, and Tailwind CSS. It includes a frontend interface and a backend API proxy for IPTV services.
